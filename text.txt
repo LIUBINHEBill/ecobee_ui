@@ -1,0 +1,7 @@
+cd Desktop
+cd ecobee
+cd eco-bee src
+cd frontend
+
+pnpm install
+pnpm dev
